@@ -1,0 +1,14 @@
+[
+    {
+        "voucherId": "1",
+        "merchant": "mcdonalds",
+        "desc": "10% off",
+        "couponCode": null
+    },
+    {
+        "voucherId": "2",
+        "merchant": "nestle",
+        "desc": "20% off",
+        "couponCode": "20OFF"
+    }
+]
